@@ -16,7 +16,7 @@ export default function PostInput() {
                 <textarea className='resize-none outline-none w-full min-h-[50px] text-lg'
                     placeholder='whats up?' />
 
-                <div className='flex justify-between items-center '>
+                <div className='flex justify-between items-center pt-5 '>
                     <div className='flex space-x-1.5'>
                     <PhotoIcon className='h-[22px] w-[22px] text-[#F4AF01]' />
                     <ChartBarIcon className='h-[22px] w-[22px] text-[#F4AF01]' />
